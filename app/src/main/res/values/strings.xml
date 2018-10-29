@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Initializer</string>
+    <string name="home_text_hint">Please type in your the movie with or without the year in the spaces below or press the microphone to say your choice</string>
+    <string name="home_editext_movie_hint">Movie Title</string>
+    <string name="home_editext_year_hint">Year film was made</string>
+    <string name="home_search_button">Search</string>
+</resources>
